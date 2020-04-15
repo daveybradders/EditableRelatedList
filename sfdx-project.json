@@ -1,0 +1,10 @@
+{
+  "packageDirectories": [
+    {
+      "path": "H8-Editable-Related-List",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sourceApiVersion": "47.0"
+}
