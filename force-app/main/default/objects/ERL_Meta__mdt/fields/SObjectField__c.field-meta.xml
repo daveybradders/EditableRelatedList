@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SObjectField__c</fullName>
+    <externalId>false</externalId>
+    <fieldManageability>SubscriberControlled</fieldManageability>
+    <inlineHelpText>Specify the field you want to output on screen or for where clause the field you want to use to determine that this is the lookup relationship reference field</inlineHelpText>
+    <label>Child Field</label>
+    <metadataRelationshipControllingField>ERL_Meta__mdt.SObject__c</metadataRelationshipControllingField>
+    <referenceTo>FieldDefinition</referenceTo>
+    <relationshipLabel>SObjectMetaData</relationshipLabel>
+    <relationshipName>SObjectMetaData</relationshipName>
+    <required>false</required>
+    <type>MetadataRelationship</type>
+    <unique>false</unique>
+</CustomField>
